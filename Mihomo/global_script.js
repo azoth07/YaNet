@@ -356,6 +356,7 @@ const serviceConfigs = [
       'GEOSITE,category-ai-chat-!cn,国外AI',
       'DOMAIN-SUFFIX,meta.ai,国外AI',
       'DOMAIN-SUFFIX,meta.com,国外AI',
+      'DOMAIN-SUFFIX,okx.com,国外AI',
       'PROCESS-NAME-REGEX,(?i).*Antigravity.*,国外AI',
       'PROCESS-NAME-REGEX,(?i).*language_server_.*,国外AI',
     ],
